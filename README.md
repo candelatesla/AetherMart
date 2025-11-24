@@ -2,7 +2,6 @@
 
 **A Scalable, Hybrid, and AI Powered Infrastructure for Modern E-Commerce.**
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/MariaDB-Galera%20Cluster-003545?style=for-the-badge&logo=mariadb" /> <img src="https://img.shields.io/badge/MongoDB-v7.0-47A248?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws" /> <img src="https://img.shields.io/badge/VectorDB-Semantic%20Search-8000FF?style=for-the-badge&logo=apachesolr" /> <img src="https://img.shields.io/badge/LLM%20Embeddings-Transformers-FF6F00?style=for-the-badge&logo=huggingface" /> </p>
----
 
 ## 📖 Project Overview
 
