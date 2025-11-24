@@ -125,3 +125,26 @@ The entire platform can be spun up using the Master Orchestrator.
 └── Docs/
     ├── Project.docx       # Original Project Scope
     └── Technical_M3.pdf   # Clustering Documentation
+
+-----
+
+## 📽️ Project Artifacts (Presentations & Demos)
+
+Below are the deliverables for each phase of the AetherMart project.
+
+| Milestone | Focus Area | Presentation (PPT) | Demo Video |
+| :--- | :--- | :---: | :---: |
+| **Milestone 1** | Schema Design & Normalization | [View PPT](https://www.google.com/search?q=./path/to/M1_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
+| **Milestone 2** | Advanced SQL & Automation | [View PPT](https://www.google.com/search?q=./path/to/M2_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
+| **Milestone 3** | High Availability (Galera/Replication) | [View PPT](https://www.google.com/search?q=./path/to/M3_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
+| **Milestone 4** | Schema Evolution & Optimization | [View PPT](https://www.google.com/search?q=./path/to/M4_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
+| **Milestone 5** | NoSQL Introduction | [View PPT](https://www.google.com/search?q=./path/to/M5_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
+| **Milestone 6** | **Final Mastery (Hybrid Real-time Sync)** | [View PPT](https://www.canva.com/design/DAG5dyff2SU/e4QIqmJhNUQoOkwVBMOB8Q/edit) | [Watch Video](https://www.google.com/search?q=link_to_video) |
+
+-----
+
+### 👨‍💻 Contributors
+
+  * **[Yash Chetan Doshi]** - Lead Engineer & Architect
+  * **Google Gemini**
+  * **[Dr. David Gomillion]** - Part of ISTM 622 Advanced Data Management Coursework
