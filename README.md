@@ -135,7 +135,7 @@ Below are the deliverables for each phase of the AetherMart project.
 
 | Milestone | Focus Area | Presentation (PPT) | Demo Video |
 | :--- | :--- | :---: | :---: |
-| **Milestone 1** | Schema Design & Normalization | [View PPT](https://www.google.com/search?q=./path/to/M1_PPT.pdfhttps://www.canva.com/design/DAGyWsZ585E/whlZ2AX8RJ17nxbRji5okQ/edit?utm_content=DAGyWsZ585E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/6DpNZnWCkcw?si=7f5RtIcxqBt0COU3) |
+| **Milestone 1** | Schema Design & Normalization | [View PPT](https://www.canva.com/design/DAGyWsZ585E/whlZ2AX8RJ17nxbRji5okQ/edit?utm_content=DAGyWsZ585E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/6DpNZnWCkcw?si=7f5RtIcxqBt0COU3) |
 | **Milestone 2** | Advanced SQL & Automation | [View PPT](https://www.canva.com/design/DAGzpjAPUI8/47PSApNyMT-DjHNWPjtoHg/edit?utm_content=DAGzpjAPUI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/uDWY3ZVCoJA?si=YSRfshF8Wo-SDdSx) |
 | **Milestone 3** | High Availability (Galera/Replication) | [View PPT](https://www.canva.com/design/DAG1mPf_UPw/PsnLuH1gXxfQE1RmWtWaxw/edit?utm_content=DAG1mPf_UPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/ZB0uC6ltNyM?si=SZeoa9TeTaIkDOhc) |
 | **Milestone 4** | Schema Evolution & Optimization | [View PPT](https://www.canva.com/design/DAG28HQfYWM/Wno6TSmUc4c25-rtu_y9ZA/edit?utm_content=DAG28HQfYWM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/5xQbXrUCc_o?si=JCL2vGqnyHp0Jxho) |
@@ -148,6 +148,7 @@ Below are the deliverables for each phase of the AetherMart project.
 
 ### 👨‍💻 Contributors
 
-  * **[Yash Chetan Doshi]** - Lead Engineer & Architect
+  * **Yash Chetan Doshi** - Lead Engineer & Architect
+  * **Dr. David Gomillion** - Part of ISTM 622 Advanced Data Management Coursework
   * **Google Gemini**
-  * **[Dr. David Gomillion]** - Part of ISTM 622 Advanced Data Management Coursework
+
