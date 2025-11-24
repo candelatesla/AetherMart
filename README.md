@@ -152,6 +152,6 @@ Below are the deliverables for each phase of the AetherMart project.
 
 ### 👨‍💻 Contributors
 
-  * **Yash Chetan Doshi** - Lead Engineer & Architect
+  * **Yash Chetan Doshi**
   * **Dr. David Gomillion** - Part of ISTM 622 Advanced Data Management Coursework
 
