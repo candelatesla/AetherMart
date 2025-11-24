@@ -109,7 +109,6 @@ The entire platform can be spun up using the Master Orchestrator.
 
 ## 📂 Project Structure
 
-```text
 ├── orchestrator.py        # MASTER SCRIPT: Sets up the entire environment
 ├── generator.py           # Generates dummy data for MariaDB
 ├── migrate2.py            # Performs initial bulk load from MariaDB -> MongoDB
