@@ -150,5 +150,4 @@ Below are the deliverables for each phase of the AetherMart project.
 
   * **Yash Chetan Doshi** - Lead Engineer & Architect
   * **Dr. David Gomillion** - Part of ISTM 622 Advanced Data Management Coursework
-  * **Google Gemini**
 
