@@ -1,21 +1,86 @@
-# AetherMart Unified Data Platform 🛒🚀
+# AetherMart Unified Data & AI Platform 🛒🚀
 
-**A Scalable, Hybrid, and Intelligent Data Infrastructure for Modern E-Commerce.**
-
+**A Scalable, Hybrid, and AI Powered Infrastructure for Modern E-Commerce.**
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/MariaDB-Galera%20Cluster-003545?style=for-the-badge&logo=mariadb" /> <img src="https://img.shields.io/badge/MongoDB-v7.0-47A248?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws" /> <img src="https://img.shields.io/badge/VectorDB-Semantic%20Search-8000FF?style=for-the-badge&logo=apachesolr" /> <img src="https://img.shields.io/badge/LLM%20Embeddings-Transformers-FF6F00?style=for-the-badge&logo=huggingface" /> </p>
 ---
 
 ## 📖 Project Overview
 
 **AetherMart** has evolved from a niche garage startup selling custom gaming PCs to a leading e-commerce platform for cutting-edge technology and smart home devices. 
 
-This project details the engineering of AetherMart's backend data infrastructure. Over the course of six milestones, we transformed a basic relational database into a sophisticated **Hybrid Data Platform** capable of handling high-volume transactions, providing real-time analytics, and supporting AI-driven features like semantic search.
+AetherMart is an end-to-end hybrid data + AI platform that combines relational storage, NoSQL document models, vector search, semantic retrieval, and real-time synchronization to power intelligent e-commerce experiences.
 
-### 🛠️ Tech Stack
-* **Operational Database:** MariaDB (Galera Cluster & Standard Replication)
-* **Analytical/Hybrid Database:** MongoDB (NoSQL Document Store)
-* **Orchestration & ETL:** Python 3 (`pymysql`, `pymongo`)
-* **Infrastructure:** AWS EC2 (Ubuntu Linux), AWS Security Groups
-* **Governance:** Custom SQL Auditing, PII Masking, Lineage Tracking
+Originally built as a scalable backend system, AetherMart evolved into an AI-ready platform, capable of supporting semantic product search, embeddings, and agent-like memory retrieval — the same foundational components used in modern LLM-based agent systems.
+
+This project details the engineering of AetherMart's backend data infrastructure. Over the course of six milestones, we transformed a basic relational database into a sophisticated **Hybrid Data Platform** capable of handling high-volume transactions, providing real-time analytics, and supporting AI-driven features.
+
+---
+
+## ⭐ Key Capabilities
+
+### 🤖 AI & Intelligent Retrieval
+- Vector Database (FAISS-style architecture)
+- Semantic Search using Transformer embeddings
+- Natural-language query support (“quiet mechanical keyboard under $100”)
+- Embedding pipeline for product descriptions, reviews, and metadata
+
+### 🧠 Agentic AI Foundations
+- Vector memory layer for persistent context
+- Hybrid structured + unstructured knowledge base
+- Real-time world-state sync for agent reliability
+- Gemini API integration through Python orchestrators
+
+### 🗄️ Data & Storage
+- MariaDB (Galera Cluster for HA + replication scaling)
+- MongoDB (Document-oriented for flexible storage)
+- Hybrid OLTP + NoSQL ecosystem
+- AWS Ubuntu EC2 Instance
+
+### ⚙️ Real-Time Orchestration
+- Python ETL pipelines (`pymysql`, `pymongo`)
+- Change Data Capture (CDC) triggers + sync queues
+- Continuous sync worker (MariaDB → MongoDB)
+
+### 🔐 Governance & Security
+- RBAC with granular permission levels
+- PII Masking via secure SQL views
+- Data lineage + data quality logging
+- Environment-variable-based credential isolation
+- AWS security Groups 
+
+---
+
+## 🛠️ Tech Stack
+
+### **AI Layer**
+- Transformer Embeddings (Gemini / Sentence Transformers)
+- Vector Search (FAISS-style VectorDB)
+- Semantic Search Pipeline
+
+### **Databases**
+- **MariaDB**
+  - Galera Cluster (Multi-master HA)
+  - Primary–Replica Replication
+- **MongoDB**
+  - NoSQL Document Store
+  - Nested Data Models (profiles, reviews)
+
+### **Python Orchestration**
+- `pymysql` – Relational DB automation
+- `pymongo` – MongoDB connectivity
+- `orchestrator.py` – Full environment automation
+- `mongo_sync_worker.py` – Real-time CDC sync
+
+### **Infrastructure**
+- AWS EC2 (Ubuntu Linux)
+- Security Groups (port-level restrictions)
+- Environment Variables for credentials
+
+### **Governance**
+- RBAC roles (`alex`, `sarah`, `maria`)
+- PII-masked customer views
+- Data lineage tracking tables
+- Sync audit logs
 
 ---
 
@@ -44,11 +109,11 @@ This project details the engineering of AetherMart's backend data infrastructure
 * **Network Security:** Configured AWS Security Groups to allow internal communication on ports `3306`, `4567`, `4568`, `4444` strictly between nodes.
 * **Key Deliverable:** `Technical README (Milestone 3).pdf`.
 
-### 🔹 Milestone 4: Schema Evolution & AI Readiness
+### 🔹 Milestone 4: Schema Evolution & AI Integration
 **Goal:** Adapt the schema for new business verticals and prepare for AI integration.
 * Updated schema to support "Services" (Consultations) alongside physical products.
 * Optimized indexing for complex queries.
-* Laid the groundwork for vector embeddings by identifying descriptive fields for Semantic Search.
+* Laid the groundwork for vector embeddings by identifying descriptive fields for Semantic Search and implemented through Gemini API.
 * **Key Deliverable:** `milestone4.sql`.
 
 ### 🔹 Milestone 5: NoSQL Integration
