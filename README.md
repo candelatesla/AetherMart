@@ -7,9 +7,9 @@
 
 **AetherMart** has evolved from a niche garage startup selling custom gaming PCs to a leading e-commerce platform for cutting-edge technology and smart home devices. 
 
-AetherMart is an end-to-end hybrid data + AI platform that combines relational storage, NoSQL document models, vector search, semantic retrieval, and real-time synchronization to power intelligent e-commerce experiences.
+It is an end-to-end hybrid data + AI platform that combines relational storage, NoSQL document models, vector search, semantic retrieval, and real-time synchronization to power intelligent e-commerce experiences.
 
-Originally built as a scalable backend system, AetherMart evolved into an AI-ready platform, capable of supporting semantic product search, embeddings, and agent-like memory retrieval — the same foundational components used in modern LLM-based agent systems.
+Originally built as a scalable backend system, it evolved into an AI-ready platform, capable of supporting semantic product search, embeddings, and agent-like memory retrieval — the same foundational components used in modern LLM-based agent systems.
 
 This project details the engineering of AetherMart's backend data infrastructure. Over the course of six milestones, we transformed a basic relational database into a sophisticated **Hybrid Data Platform** capable of handling high-volume transactions, providing real-time analytics, and supporting AI-driven features.
 
