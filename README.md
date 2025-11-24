@@ -127,6 +127,8 @@ The entire platform can be spun up using the Master Orchestrator.
     └── Technical_M3.pdf   # Clustering Documentation
     ├── Technical_M4.pdf   # Original Project Scope
     └── Technical_M5.pdf   # Clustering Documentation
+└── Test Scripts/
+
 ```
 
 -----
