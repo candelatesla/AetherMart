@@ -109,6 +109,7 @@ The entire platform can be spun up using the Master Orchestrator.
 
 ## 📂 Project Structure
 
+```text
 ├── orchestrator.py        # MASTER SCRIPT: Sets up the entire environment
 ├── generator.py           # Generates dummy data for MariaDB
 ├── migrate2.py            # Performs initial bulk load from MariaDB -> MongoDB
@@ -124,6 +125,7 @@ The entire platform can be spun up using the Master Orchestrator.
 └── Docs/
     ├── Project.docx       # Original Project Scope
     └── Technical_M3.pdf   # Clustering Documentation
+```
 
 -----
 
@@ -133,7 +135,7 @@ Below are the deliverables for each phase of the AetherMart project.
 
 | Milestone | Focus Area | Presentation (PPT) | Demo Video |
 | :--- | :--- | :---: | :---: |
-| **Milestone 1** | Schema Design & Normalization | [View PPT](https://www.google.com/search?q=./path/to/M1_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
+| **Milestone 1** | Schema Design & Normalization | [View PPT](https://www.google.com/search?q=./path/to/M1_PPT.pdf](https://www.canva.com/design/DAGyWsZ585E/whlZ2AX8RJ17nxbRji5okQ/edit?utm_content=DAGyWsZ585E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://www.google.com/search?q=link_to_video) |
 | **Milestone 2** | Advanced SQL & Automation | [View PPT](https://www.google.com/search?q=./path/to/M2_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
 | **Milestone 3** | High Availability (Galera/Replication) | [View PPT](https://www.google.com/search?q=./path/to/M3_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
 | **Milestone 4** | Schema Evolution & Optimization | [View PPT](https://www.google.com/search?q=./path/to/M4_PPT.pdf) | [Watch Video](https://www.google.com/search?q=link_to_video) |
