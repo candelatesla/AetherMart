@@ -201,7 +201,9 @@ The entire platform can be spun up using the Master Orchestrator.
 
 Below are the deliverables for each phase of the AetherMart project.
 
-| Milestone | Focus Area | Presentation (PPT) | Demo Video |
+**[Watch Playlist](https://youtube.com/playlist?list=PLK_6HE4o8OUpRB_lch_VKO0WwT5BGM3Dp&si=tLlqEpFPanNx9sdk)**
+
+| Milestone | Focus Area | Presentation (PPT) | Video |
 | :--- | :--- | :---: | :---: |
 | **Milestone 1** | Schema Design & Normalization | [View PPT](https://www.canva.com/design/DAGyWsZ585E/whlZ2AX8RJ17nxbRji5okQ/edit?utm_content=DAGyWsZ585E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/6DpNZnWCkcw?si=7f5RtIcxqBt0COU3) |
 | **Milestone 2** | Advanced SQL & Automation | [View PPT](https://www.canva.com/design/DAGzpjAPUI8/47PSApNyMT-DjHNWPjtoHg/edit?utm_content=DAGzpjAPUI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/uDWY3ZVCoJA?si=YSRfshF8Wo-SDdSx) |
@@ -210,12 +212,23 @@ Below are the deliverables for each phase of the AetherMart project.
 | **Milestone 5** | NoSQL Introduction | [View PPT](https://www.canva.com/design/DAG3-0RK9LI/mrrjg4nbWtFKrTlqer1rAw/edit?utm_content=DAG3-0RK9LI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/zWDpPyK2zNo?si=Ym7lj-cM9u_0L1sT) |
 | **Milestone 6** | **Final Mastery (Hybrid Real-time Sync)** | [View PPT](https://www.canva.com/design/DAG5dyff2SU/e4QIqmJhNUQoOkwVBMOB8Q/edit?utm_content=DAG5dyff2SU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Watch Video](https://youtu.be/ZClVdKPQdMc?si=MbzG55UIMVJGGpHV) |
 
-**Playlist**  | [Watch Video](https://youtube.com/playlist?list=PLK_6HE4o8OUpRB_lch_VKO0WwT5BGM3Dp&si=tLlqEpFPanNx9sdk)
-
 -----
+
+## 🤝 Contributing
+
+This repository is actively expanding. Feel free to:
+- Open issues
+- Contribute enhancements via pull requests
+
+---
 
 ### 👨‍💻 Contributors
 
-  * **Yash Chetan Doshi**
-  * **Dr. David Gomillion** - Part of ISTM 622 Advanced Data Management Coursework
+  * **Yash Chetan Doshi** *(Part of ISTM 622 Advanced Data Management Coursework)*
 
+## 🔗 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yashdoshi8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash Doshi" /></a>
+<a href="mailto:yash.doshi@tamu.edu"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
