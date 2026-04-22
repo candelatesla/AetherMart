@@ -222,9 +222,10 @@ This repository is actively expanding. Feel free to:
 
 ---
 
-### 👨‍💻 Contributors
+## License / Copyright
+© 2026 Yash Chetan Doshi. All rights reserved.
 
-  * **Yash Chetan Doshi** *(Part of ISTM 622 Advanced Data Management Coursework)*
+You may not copy, modify, distribute, or use any part of this repository or its contents without prior written permission from the author.
 
 ## 🔗 Connect
 
